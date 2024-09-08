@@ -31,3 +31,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 4. Error
 <img src="./doc/res/Error.png">
+
+## Pending Tasks
+- [ ] Use random number of rotations for generating keys instead of 10K or 100K
+- [ ] Show error message if user entry password entry in different format like abc:hello

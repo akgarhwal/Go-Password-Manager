@@ -16,7 +16,7 @@ import (
 )
 
 func createHash(key string, salt []byte) []byte {
-	return pbkdf2.Key([]byte(key), salt, 100000, 32, sha256.New)
+	return pbkdf2.Key([]byte(key), salt, 367848, 32, sha256.New)
 }
 
 func Encrypt(data []byte, passphrase string) []byte {

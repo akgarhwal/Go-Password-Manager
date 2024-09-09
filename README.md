@@ -34,3 +34,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Pending Tasks
 - [ ] Show error message if user entry password entry in different format like abc:hello
+- [ ] Release for easy install
